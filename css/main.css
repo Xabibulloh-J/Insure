@@ -548,6 +548,7 @@ img {
       width: 100%;
       margin: 0 auto;
       padding: 20px 30px;
+      background-image: url("../images/articlebg.svg");
       background-size: 690px;
    }
    .site-article__title-wrapper {
@@ -679,6 +680,7 @@ img {
       max-width: 1110px;
       width: 100%;
       padding: 69px 80px;
+      background-image: url("../images/articlebg.svg");
       background-size: 1110px 250px;
    }
 
